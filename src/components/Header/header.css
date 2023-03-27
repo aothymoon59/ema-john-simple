@@ -17,3 +17,19 @@
 .header a:hover {
     color: orange;
 }
+
+@media only screen and (max-width:600px) {
+    .header {
+        height: 50px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .header a {
+        margin-left: 8px;
+    }
+
+    .header img {
+        width: 100px;
+    }
+}
