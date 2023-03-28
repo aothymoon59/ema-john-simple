@@ -1,0 +1,21 @@
+.cart {
+    background: rgba(255, 153, 0, 0.3);
+    padding: 25px;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
+
+.cart p {
+    font-size: 17px;
+}
+
+.cart h4 {
+    color: #0E161A;
+    font-size: 20px;
+}
+
+.cart h6 {
+    color: #0E161A;
+    font-size: 14px;
+}
